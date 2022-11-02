@@ -1,0 +1,11 @@
+{
+	"token": <YOUR TOKEN HERE>,
+    "logging_level" : "INFO",
+    "streaming_server_port" : 8000,
+    "robot" : {
+        "left_motor_forward_pin" : 23,
+        "left_motor_backward_pin" : 25,
+        "right_motor_forward_pin" : 22,
+        "right_motor_backward_pin" : 17
+    }
+}
